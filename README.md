@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**wellyngtonmedeiros/wellyngtonmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wellyngton Medeiros.
 
-Here are some ideas to get you started:
+💻 Systems Analysis and Development Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📐 Mathematics Student
+
+🚀 Focused on Backend Development
+
+## Currently Learning
+
+- JavaScript
+- TypeScript
+- Node.js
+- PostgreSQL
+
+## About Me
+
+⌛ while (alive) { learn(); improve(); }
+
+I'm building my skills through study, practice and personal projects.
+
+## Contact
+
+📧 wellyngton.medeiros@proton.me
