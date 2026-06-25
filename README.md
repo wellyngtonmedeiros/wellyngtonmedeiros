@@ -1,26 +1,31 @@
-## Hi there 👋
-
-I'm Wellyngton Medeiros.
+# Wellyngton Medeiros
 
 💻 Systems Analysis and Development Student
 
 📐 Mathematics Student
 
-🚀 Focused on Backend Development
+🚀 Backend Development
 
-## Currently Learning
+---
 
-- JavaScript
-- TypeScript
-- Node.js
-- PostgreSQL
+## Tech Stack
 
-## About Me
+```js
+const stack = {
+  language: ["JavaScript", "TypeScript"],
+  backend: ["Node.js"],
+  database: ["PostgreSQL"]
+};
+```
 
-⌛ while (alive) { learn(); improve(); }
+## Current Goal
 
-I'm building my skills through study, practice and personal projects.
+```js
+while (alive) {
+  learn();
+  build();
+  improve();
+}
+```
 
-## Contact
-
-📧 wellyngton.medeiros@proton.me
+Building projects and developing my backend skills every day.
